@@ -3,7 +3,7 @@ languageCode: en-us
 title: Broken Hill High - Software Engineering
 
 enableRobotsTXT: true
-# enableGitInfo: true
+enableGitInfo: true
 # enableEmoji: false
 hasCJKLanguage: true
 
@@ -71,7 +71,7 @@ menu:
         type: search
     - name: GitHub
       weight: 9
-      url: "https://github.com/imfing/hextra"
+      url: "https://github.com/stem-teacher/brokenhill-h.github.io"
       params:
         icon: github
 
@@ -137,7 +137,7 @@ params:
 
   editURL:
     enable: true
-    base: "https://github.com/imfing/hextra/edit/main/exampleSite/content"
+    base: "https://github.com/stem-teacher/brokenhill-h.github.io"
 
   blog:
     list:

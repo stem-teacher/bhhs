@@ -3,6 +3,8 @@ title: Workbooks
 cascade:
   type: docs
 toc: true
+sidebar:
+  open: true
 
 ---
 
