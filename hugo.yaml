@@ -137,7 +137,7 @@ params:
 
   editURL:
     enable: true
-    base: "https://github.com/stem-teacher/brokenhill-h.github.io/content"
+    base: "https://github.com/stem-teacher/brokenhill-h.github.io/blob/main/content/"
 
   blog:
     list:
