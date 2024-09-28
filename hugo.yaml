@@ -116,7 +116,7 @@ params:
   footer:
     enable: true
     displayCopyright: true
-    displayPoweredBy: falses
+    displayPoweredBy: false
     width: normal
 
   displayUpdatedDate: true
