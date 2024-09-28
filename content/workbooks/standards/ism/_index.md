@@ -1,5 +1,5 @@
 ---
-title: "ISM"
+title: "ISM Controls"
 description: "OSCAL and the ACSC Information Security Manual"
 lead: "Web enabled ISM for automated security trace and validation."
 draft: false
@@ -8,16 +8,13 @@ weight: 5
 toc: true
 ---
 
-# OSCAL and the ACSC Information Security Manual
-
-## BLUF: Web enabled ISM for automated security trace and validation
+## Enabling Automated Security Trace and Validation
 
 The following links are the top level ISM controls sets as input to automated security control allocation and automation.
 
 - [ISM in Security Group Context](https://ism.mentormind.com.au/context)
 - [All the ISM Controls](https://ism.mentormind.com.au/control/index)
 - [Essential Eight Controls](https://ism.mentormind.com.au/essential-eight)
-
 
 ## Overview
 To obtain an Authority to Operate (ATO), systems must demonstrate reduced operational risks to an acceptable level. This is commonly achieved through the Australian Cyber Security Centre's ([ACSC](https://cyber.gov.au/)) Information Security Manual ([ISM](https://www.cyber.gov.au/resources-business-and-government/essential-cyber-security/ism)). However, the traditional approach—using Excel spreadsheets and Word documents—complicates reliable control allocation and testing, making it challenging to maintain a verifiable security posture over time.
