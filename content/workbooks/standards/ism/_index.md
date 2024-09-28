@@ -1,7 +1,7 @@
 ---
 title: "ISM Controls"
 description: "OSCAL and the ACSC Information Security Manual"
-lead: "Web enabled ISM for automated security trace and validation."
+lead: "ISM for automated security trace and validation."
 draft: false
 images: []
 weight: 5
