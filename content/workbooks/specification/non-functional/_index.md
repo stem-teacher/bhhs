@@ -8,14 +8,4 @@ weight: 2
 toc: true
 ---
 
-Welcome to the Non-Functional Specifications section. This page provides an overview of the content in this area.
-
-## Topics Covered
-
-- Topic 1
-- Topic 2
-- Topic 3
-
-## Getting Started
-
-Choose a topic from the menu to begin exploring this section.
+The Non-Functional Workbook outlines the software’s operational qualities, including performance, reliability, usability, scalability, and maintainability. It captures requirements that define the software’s behaviour under various conditions, such as speed, response time, load handling, and resource usage. Additionally, this workbook addresses compatibility with different environments, platforms, and standards, ensuring the software delivers a smooth and consistent experience. It provides the benchmarks and metrics against which the software’s success and quality will be measured, guiding design and implementation to meet these expectations.

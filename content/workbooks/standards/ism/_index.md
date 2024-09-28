@@ -26,24 +26,14 @@ Despite this advancement, additional tools are necessary for practical applicati
 Thus, the following `curl` request:
 
 ```bash
-curl https://ism.mentormind.com.au/content/control/ism-0123
+https://raw.githubusercontent.com/stem-teacher/ism.github.io/refs/heads/main/content/control/ism-0047.md
 ```
 
 returns the following result.
 
-```json
-  {
-    "group": "04,1,5",
-    "id": "ism-0123",
-    "title": "Control: ism-0123",
-    "revision": "4",
-    "updated": "Jun-23",
-    "applicability": "ALL",
-    "statement": "<p>Cyber security incidents are reported to the Chief Information Security Officer, or one of their delegates, as soon as possible after they occur or are discovered.</p>",
-    "essential_eight_applicability": "ML3",
-    "class": "ISM-control",
-    "sort_id": "04,1,5,1"
-  }
+```markdown
+### Control: ism-0047; Revision: 4; Updated: May-19; Applicability: ALL; Essential Eight: N/A
+<p>Organisational-level security documentation is approved by the Chief Information Security Officer while system-specific security documentation is approved by the system’s authorising officer.</p>
 ```
 
 Similarly, the following curl requests produce all the controls as a single document, as well as the different security control groups:
