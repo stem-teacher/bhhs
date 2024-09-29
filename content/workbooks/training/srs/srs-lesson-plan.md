@@ -1,34 +1,39 @@
 ---
-title: "System Requirements Plan (SRS)"
+title: "Lesson Plan: Introduction to System Requirements Specification (SRS)"
 draft: false
 images: []
 weight: 5
 toc: true
 ---
-
-# Lesson Plan: Introduction to System Requirements Specification (SRS)
 ## Overview
-**Name:** Philip Haynes **Date:** 28/05/2024
+**Name:** Philip Haynes **Date:** 28/09/2024
 **School:** Broken Hill High School
 
 **Unit of Work:** Programming Fundamentals
-**Lesson Topic:**System Requirements Specification (SRS) **Lesson Length:** 60 mins
+**Lesson Topic:** System Requirements Specification (SRS) **Lesson Length:** 60 mins
 
 **Lesson Begins / End:** 9:05:10:05 **Class Size:** 20
 
-## **Syllabus Outcomes:**
-### SE-11-01: Describes methods used to plan, develop and engineer software solutions
-### SE-11-02: explains how structural elements are used to develop programming code
-### SE-11-03: Describes how current hardware, software and emerging technologies influence the  development of software engineering solutions
+## Syllabus Outcomes
+1. **SE-11-01**: Describes methods used to plan, develop and engineer software solutions
+Introduce Students to the use of SRS in the context of a formal software engineering.
 
-### SE-11-04: applies safe and secure practices to collect, use and store data
-Introduce students to the use of github
+1. **SE-11-02**: explains how structural elements are used to develop programming code
+Demonstrate how requirements tracde to implementation.
 
-### SE-11-06: applies tools and resources to design, develop, manage and evaluate software
-Introduce students to key software technologies
-### SE-11-07: Emplements safe and secure programming solutions
+1. **SE-11-03**: Describes how current hardware, software and emerging technologies influence the  development of software engineering solutions
+Demonstrate a contemporary software engineering environment.
 
-**Lesson Outcomes:**
+1. **SE-11-04**: applies safe and secure practices to collect, use and store data
+Continued demonstration to students to the use of [github](https://github.com/stem-teacher/brokenhill-h.github.io)
+
+1. **SE-11-06**: applies tools and resources to design, develop, manage and evaluate software
+Introduce students to key software technologies to complete software engineering.
+
+1. **SE-11-07**: Emplements safe and secure programming solutions
+Introduce students to the [ISM Security Controls](https://ism.mentormind.com.au/control/index)
+
+## Lesson Outcomes:
 - Define what an SRS is and explain its importance in software engineering.
 - Identify and describe different types of software requirements.
 - Introduce students to the characteristics of a good SRS.
@@ -36,24 +41,25 @@ Introduce students to key software technologies
 - Demonstrate how to write, document, and manage requirements using GitHub and Hugo.
 - Introduce tooling
 
-**Assessment (Diagnostic/Formative/Summative):**
-Formative assessment to ensure artefacts associated with an experiment and associated evidence is collected.
+## Assessment (Diagnostic/Formative/Summative):
+1. Formative assessment - ensure students can access material and make progress.
+1. Summative: Successfully created a requirement to review.
 
-**The Key/Foundational Ideas Addressed in This Lesson Are:**
+## The Key/Foundational Ideas Addressed in This Lesson Are:**
+1. SRS in the context of a formal software engineering process.
 
-1. Commencement of experiment and ensure material is collected successfully.
+## General Capabilities:
+The class consists of main stream Y11 students. Bright and enthusasistic, but otherwise new to software engineering.
 
-**General Capabilities:**
-The class consists of main stream Y11 students.
-
-**Equipment/Resources:**
+## Equipment/Resources:
+- [Presentation pack](/workbooks/training/srs/bhhs-srs.pptx)
 - Students have access to a computer and are logged into GitHub.
 - Prepared [software engineering site](https://brokenhill-h.polemos.ai/)
 - [**GitHub**](https://github.com/stem-teacher/brokenhill-h.github.io): A version control platform where students will store their SRS documents.
 - **Templates:** Refer to the SRS template provided on the Hugo site for structured requirement documentation.
 
-**Context of the Lesson/Students' Prior Learning:**
-The students have been introduced to GIT
+## Context of the Lesson/Students' Prior Learning:
+The students have been introduced to git and github but are still very much in early days.
 
 ## Lesson Plan
 
@@ -69,8 +75,6 @@ Work with each student in more consulting fashion to achieve results.
   - Pose an opening question: _“What do you think is the first step in building software?”_
   - Explain that creating a **System Requirements Specification (SRS)** is one of the first and most critical steps.
 
----
-
 ### 5-15 Minutes: What is an SRS?
 
 - **Objective:** Define what an SRS is and discuss its context in software engineering.
@@ -81,8 +85,6 @@ Work with each student in more consulting fashion to achieve results.
   - Discuss the **context** of using an SRS in different scenarios, from large organizations building software for clients to individuals instructing an AI.
 - **Questions:**
   - _“Why do you think having a clear set of requirements is important when building software?”_
-
----
 
 ### 15-25 Minutes: Understanding Software Requirements
 
@@ -99,8 +101,6 @@ Work with each student in more consulting fashion to achieve results.
 - **Activity:**
   - Ask students to write down one simple functional requirement for a school event management system.
 
----
-
 ### 25-35 Minutes: Gathering Requirements & Standards
 
 - **Objective:** Discuss where requirements come from and introduce software standards.
@@ -115,8 +115,6 @@ Work with each student in more consulting fashion to achieve results.
 - **Activity:**
   - Display the class Hugo site and showcase a section on software standards.
 
----
-
 ### 35-45 Minutes: Characteristics of a Good SRS
 
 - **Objective:** Highlight the key characteristics of a well-defined SRS.
@@ -130,11 +128,10 @@ Work with each student in more consulting fashion to achieve results.
     - **Verifiable:** Can be tested or inspected.
     - **Modifiable:** Easy to update and maintain.
     - **Traceable:** Each requirement can be tracked throughout the project.
-  - Emphasize the use of **"must"** statements for mandatory requirements.
+  - Emphasize the use of **"shall"** statements for mandatory requirements.
 - **Activity:**
   - Have students refine the functional requirement they wrote earlier to make it unambiguous and verifiable.
 
----
 
 ### 45-50 Minutes: Traceability & What to Avoid in SRS
 
@@ -151,7 +148,6 @@ Work with each student in more consulting fashion to achieve results.
 - **Activity:**
   - Show a sample SRS statement on the Hugo site that includes traceability elements.
 
----
 
 ### 50-60 Minutes: How Requirements Fit into the Software Engineering Lifecycle
 
@@ -179,14 +175,10 @@ Work with each student in more consulting fashion to achieve results.
 
 1. What assumptions did I make when I planned this lesson?
 
-Assumed the Y11 boys would show up with the correct equipment - or a backup.
-Jayla had her equipment and was able to undertake her work.
 
 1. Were these assumptions correct/incorrect?
-No.
 
 1. What impact did these assumptions have on the effectiveness of the lesson?
-Boys could not do their work and had to go to backup.
 
 1. How could I do things differently next time?
 
@@ -194,22 +186,20 @@ Boys could not do their work and had to go to backup.
 
 | Evaluation                                                      | Strongly Agree | Agree | Neutral | Disagree |
 | --------------------------------------------------------------- | -------------- | ----- | ------- | -------- |
-| Pre-planning Proved Effective                                   | [ ]            | [ ]   | [x]      | [ ]      |
-| Teaching & Learning Strategies Were Effectively Implemented     | [ ]            | [ ]   | [x]      | [ ]      |
-| I Was Able to Generate a Sense of Purpose:                      | [ ]            | [ ]   | [x]      | [ ]      |
-| A High Level of Student Participation Was Achieved:             | [ ]            | [x ]   | []      | [ ]      |
-| My Questioning Was Clear, Concise and Logically Sequenced:      | [ ]            | [ ]   | [x]      | [ ]      |
-| Pupils Were Interested and Self Disciplined:                    | [ ]            | [ x]   | []      | [ ]      |
-| The Resources Used Were Appropriately Graded:                   | [ ]            | [ ]   | []      | [x ]      |
-| Instructions Were Clear and Easily Understood by Students:      | [ ]            | [ ]   | [x]      | [ ]      |
-| I Recognised and Catered for Individual Differences:            | [ ]            | [ ]   | [x]      | [ ]      |
-| I Established and Maintained an Effective Learning Environment: | [ ]            | [ ]   | [x]      | [ ]      |
+| Pre-planning Proved Effective                                   | [ ]            | [ ]   | [ ]      | [ ]      |
+| Teaching & Learning Strategies Were Effectively Implemented     | [ ]            | [ ]   | [ ]      | [ ]      |
+| I Was Able to Generate a Sense of Purpose:                      | [ ]            | [ ]   | [ ]      | [ ]      |
+| A High Level of Student Participation Was Achieved:             | [ ]            | [ ]   | [ ]      | [ ]      |
+| My Questioning Was Clear, Concise and Logically Sequenced:      | [ ]            | [ ]   | [ ]      | [ ]      |
+| Pupils Were Interested and Self Disciplined:                    | [ ]            | [ ]   | [ ]      | [ ]      |
+| The Resources Used Were Appropriately Graded:                   | [ ]            | [ ]   | [ ]      | [ ]      |
+| Instructions Were Clear and Easily Understood by Students:      | [ ]            | [ ]   | [ ]      | [ ]      |
+| I Recognised and Catered for Individual Differences:            | [ ]            | [ ]   | [ ]      | [ ]      |
+| I Established and Maintained an Effective Learning Environment: | [ ]            | [ ]   | [ ]      | [ ]      |
 
 ### What Were the Most Effective Elements of the Lesson?
-Lab went well for Jalya and the boys got more focus on their efforts.
+
 
 ### What Were the Least Effective Elements of the Lesson?
-Lack of equipment.
 
 ### If I Was to Repeat the Lesson, What Would I Change? What Could I Improve?
-In this one, it is really up to the students to bring their materials.
