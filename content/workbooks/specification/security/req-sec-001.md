@@ -18,10 +18,6 @@ references:
 # Traceability fields
 implementation_ref: "/implementation/IMPL-REQ-TZbD"
 test_ref: "/tests/TEST-REQ-TBD"
-status_progress:
-  planned: ""
-  implemented: ""
-   tested: ""
 ---
 
 # Requirement Title
