@@ -30,10 +30,10 @@ Continued demonstration to students to the use of [github](https://github.com/st
 1. **SE-11-06**: applies tools and resources to design, develop, manage and evaluate software
 Introduce students to key software technologies to complete software engineering.
 
-1. **SE-11-07**: Emplements safe and secure programming solutions
+1. **SE-11-07**: Implements safe and secure programming solutions
 Introduce students to the [ISM Security Controls](https://ism.mentormind.com.au/control/index)
 
-## Lesson Outcomes:
+## Lesson Outcomes
 - Define what an SRS is and explain its importance in software engineering.
 - Identify and describe different types of software requirements.
 - Introduce students to the characteristics of a good SRS.
@@ -41,31 +41,31 @@ Introduce students to the [ISM Security Controls](https://ism.mentormind.com.au/
 - Demonstrate how to write, document, and manage requirements using GitHub and Hugo.
 - Introduce tooling
 
-## Assessment (Diagnostic/Formative/Summative):
+## Assessment (Diagnostic/Formative/Summative)
+This is an inital subject with a lot of material for students to understand.
+The goal is to ensure students can access and explore the information, then complete the initial task of creating and submitting a requirement.
 1. Formative assessment - ensure students can access material and make progress.
 1. Summative: Successfully created a requirement to review.
 
-## The Key/Foundational Ideas Addressed in This Lesson Are:**
+## The Key/Foundational Ideas Addressed in This Lesson Are
 1. SRS in the context of a formal software engineering process.
 
-## General Capabilities:
+## General Capabilities
 The class consists of main stream Y11 students. Bright and enthusasistic, but otherwise new to software engineering.
 
-## Equipment/Resources:
+## Equipment/Resources
 - [Presentation pack](/workbooks/training/srs/bhhs-srs.pptx)
 - Students have access to a computer and are logged into GitHub.
 - Prepared [software engineering site](https://brokenhill-h.polemos.ai/)
 - [**GitHub**](https://github.com/stem-teacher/brokenhill-h.github.io): A version control platform where students will store their SRS documents.
-- **Templates:** Refer to the SRS template provided on the Hugo site for structured requirement documentation.
+- **Templates:** Refer to the [SRS template](/process/specification/req-template/) provided on the engineering site for structured requirement specification template.
 
 ## Context of the Lesson/Students' Prior Learning:
-The students have been introduced to git and github but are still very much in early days.
+The students have been introduced to git and github, but otherwise new to the subject.
 
 ## Lesson Plan
 
 ### Stages/Timing
-Work with each student in more consulting fashion to achieve results.
-## Lesson Outline
 
 ### 0-5 Minutes: Introduction
 
@@ -113,7 +113,7 @@ Work with each student in more consulting fashion to achieve results.
     - Describe what standards are and their role in ensuring software quality.
     - Introduce **ACSC ISM (Australian Cyber Security Centre's Information Security Manual)** as a key security standard.
 - **Activity:**
-  - Display the class Hugo site and showcase a section on software standards.
+  - Display the class [Software Engineering site](https://brokenhill-h.polemos.ai/) and showcase a section on software standards.
 
 ### 35-45 Minutes: Characteristics of a Good SRS
 
@@ -146,7 +146,7 @@ Work with each student in more consulting fashion to achieve results.
 - **Questions:**
   - _“Why is it important to track each requirement?”_
 - **Activity:**
-  - Show a sample SRS statement on the Hugo site that includes traceability elements.
+  - Show a sample SRS statement on the Software Engineering site that includes traceability elements.
 
 
 ### 50-60 Minutes: How Requirements Fit into the Software Engineering Lifecycle
@@ -159,7 +159,7 @@ Work with each student in more consulting fashion to achieve results.
     - **Testing:** Used to verify that the final product meets the requirements.
 - **Wrap-Up:**
   - Summarize the importance of a well-defined SRS.
-  - Emphasize that good requirements form the backbone of successful software projects.
+  - Emphasise that good requirements form the backbone of successful software projects.
 
 ---
 
