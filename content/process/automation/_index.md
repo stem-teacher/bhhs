@@ -1,24 +1,11 @@
 ---
 title: "Automation Process"
 description: "Overview of Automation Process"
-lead: "Explore the Automation Process section of our software engineering resources."
 draft: false
 images: []
-menu:
-  process:
-    parent: ""
-weight: 999
+weight: 3
 toc: true
 ---
+### **Automation Process Overview**
 
-Welcome to the Automation Process section. This page provides an overview of the content in this area.
-
-## Topics Covered
-
-- Topic 1
-- Topic 2
-- Topic 3
-
-## Getting Started
-
-Choose a topic from the menu to begin exploring this section.
+The **automation process** in software engineering streamlines the development, testing, and deployment of software by using automated tools and practices. This process is central to **DevSecOps**, where automation is employed not only to trace requirements but also to automate software construction, testing, and secure production deployment. By leveraging technologies such as **containerisation** and **GitHub Actions**, teams can build a continuous pipeline that ensures code is integrated, tested, and deployed rapidly and securely. This section delves into the strategies and tools that support automation, highlighting how they enable the efficient delivery of high-quality software while maintaining security and compliance standards throughout the software development lifecycle.

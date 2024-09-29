@@ -1,26 +1,11 @@
 ---
 title: "Tooling"
-description: "Overview of Tooling"
-lead: "Explore the Tooling section of our software engineering resources."
-date: 2024-09-24T15:16:42+00:00
-lastmod: 2024-09-24T15:16:42+00:00
+cascade:
+  type: docs
+description: "Overview of Software Tooling"
 draft: false
-images: []
-menu:
-  process:
-    parent: ""
-weight: 999
-toc: true
+weight: 2
 ---
+### **Tooling to Support the Process Overview**
 
-Welcome to the Tooling section. This page provides an overview of the content in this area.
-
-## Topics Covered
-
-- Topic 1
-- Topic 2
-- Topic 3
-
-## Getting Started
-
-Choose a topic from the menu to begin exploring this section.
+Effective software engineering relies on the right set of **tools** to support every stage of the development lifecycle. Technologies like **GitHub** provide a collaborative platform for version control, code review, and integration with automated workflows. **Hugo** facilitates rapid documentation and site generation, ensuring that specifications and project details are easily accessible. **Containerisation** enables consistent development, testing, and deployment environments, enhancing software reliability and scalability. On the security front, tools such as [**OSCAL**](https://pages.nist.gov/OSCAL/) (Open Security Controls Assessment Language) are used to automate compliance and manage the software supply chain, ensuring that security requirements are integrated into the development process. This section explores these tools and others, demonstrating how they work together to create an efficient, secure, and adaptable software engineering process.
